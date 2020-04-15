@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/15703-fadhilah-utsweb3/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/15703-fadhilah-utsweb3/static/js/main.5a7bf4f6.chunk.js",
-    "main.js.map": "/15703-fadhilah-utsweb3/static/js/main.5a7bf4f6.chunk.js.map",
-    "runtime-main.js": "/15703-fadhilah-utsweb3/static/js/runtime-main.05ebe406.js",
-    "runtime-main.js.map": "/15703-fadhilah-utsweb3/static/js/runtime-main.05ebe406.js.map",
-    "static/css/2.69121389.chunk.css": "/15703-fadhilah-utsweb3/static/css/2.69121389.chunk.css",
-    "static/js/2.0f9d7ce5.chunk.js": "/15703-fadhilah-utsweb3/static/js/2.0f9d7ce5.chunk.js",
-    "static/js/2.0f9d7ce5.chunk.js.map": "/15703-fadhilah-utsweb3/static/js/2.0f9d7ce5.chunk.js.map",
-    "index.html": "/15703-fadhilah-utsweb3/index.html",
-    "precache-manifest.3a61a4abf5d35e6d0fac5d06b6f804dc.js": "/15703-fadhilah-utsweb3/precache-manifest.3a61a4abf5d35e6d0fac5d06b6f804dc.js",
-    "service-worker.js": "/15703-fadhilah-utsweb3/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/15703-fadhilah-utsweb3/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/15703-fadhilah-utsweb3/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.0f9d7ce5.chunk.js.LICENSE.txt": "/15703-fadhilah-utsweb3/static/js/2.0f9d7ce5.chunk.js.LICENSE.txt"
+    "main.css": "/15703-Fadhilah-UTS-WEB3/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/15703-Fadhilah-UTS-WEB3/static/js/main.512e0ad9.chunk.js",
+    "main.js.map": "/15703-Fadhilah-UTS-WEB3/static/js/main.512e0ad9.chunk.js.map",
+    "runtime-main.js": "/15703-Fadhilah-UTS-WEB3/static/js/runtime-main.f8283c66.js",
+    "runtime-main.js.map": "/15703-Fadhilah-UTS-WEB3/static/js/runtime-main.f8283c66.js.map",
+    "static/css/2.69121389.chunk.css": "/15703-Fadhilah-UTS-WEB3/static/css/2.69121389.chunk.css",
+    "static/js/2.0f9d7ce5.chunk.js": "/15703-Fadhilah-UTS-WEB3/static/js/2.0f9d7ce5.chunk.js",
+    "static/js/2.0f9d7ce5.chunk.js.map": "/15703-Fadhilah-UTS-WEB3/static/js/2.0f9d7ce5.chunk.js.map",
+    "index.html": "/15703-Fadhilah-UTS-WEB3/index.html",
+    "precache-manifest.6864e7ab8e824c0b4a45d9dfcec981fe.js": "/15703-Fadhilah-UTS-WEB3/precache-manifest.6864e7ab8e824c0b4a45d9dfcec981fe.js",
+    "service-worker.js": "/15703-Fadhilah-UTS-WEB3/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/15703-Fadhilah-UTS-WEB3/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/15703-Fadhilah-UTS-WEB3/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0f9d7ce5.chunk.js.LICENSE.txt": "/15703-Fadhilah-UTS-WEB3/static/js/2.0f9d7ce5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05ebe406.js",
+    "static/js/runtime-main.f8283c66.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.0f9d7ce5.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5a7bf4f6.chunk.js"
+    "static/js/main.512e0ad9.chunk.js"
   ]
 }
